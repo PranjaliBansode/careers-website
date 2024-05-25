@@ -1,2 +1,2 @@
 # careers-website
-A career website using Python's Flask framework
+A career website using Python's Flask framework in replit
